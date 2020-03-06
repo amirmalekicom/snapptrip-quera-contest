@@ -1,7 +1,8 @@
 # snapptrip-quera-contest
 My submissions in SnappTrip contest held by Quera.ir
 
-Held in 3 phases, front-end volunteers must answer algorithms and front-end questions all in JavaScript and back-end volunteers must do algorithms and back (java) questions.
+Held in 3 phases, algorithm, back-end, and front-end.
+Front-end volunteers must answer algorithms and front-end questions all in JavaScript and back-end volunteers must do algorithms and back-end (Java) questions.
 
 Submission status:
 
